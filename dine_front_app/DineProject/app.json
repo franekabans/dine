@@ -1,0 +1,12 @@
+{
+  "name": "DineProject",
+  "displayName": "DineProject",
+  "expo": {
+    "name": "DineProject",
+    "slug": "DineProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
